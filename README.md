@@ -10,6 +10,9 @@ CITRA
 
 #### - Documento de visão do projeto anexado em PDF
 
+#### - Trello:
+[Acesse aqui](https://trello.com/b/bjVOFTwd/citra-pies-ii)
+
 #### - Prototipação:
 [Acesse aqui](https://www.figma.com/file/w7c66cYaBDdsAX3mvK1nnl/Untitled?node-id=0%3A1)
 
