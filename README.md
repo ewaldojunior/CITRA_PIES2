@@ -24,4 +24,4 @@ CITRA
 #### - Esquema de dados:
 [Diagrama ER CITRAdb](https://drive.google.com/file/d/14Bx9SLCFykOZnJ1EO1OT6M_-SMZ9n-ER/view?usp=sharing)
 
-[Banco de dados] (https://drive.google.com/file/d/1x41Drot5hjH7cPHrj7g49T9kdIWQIbL8/view?usp=sharing)
+[Banco de dados](https://drive.google.com/file/d/1x41Drot5hjH7cPHrj7g49T9kdIWQIbL8/view?usp=sharing)
