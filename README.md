@@ -20,3 +20,6 @@ CITRA
 [FrontEnd](https://github.com/isaniovitor/citra_frontend)
 
 [BackEnd](https://github.com/ewaldojunior/CITRA-backend/tree/main/CITRA_API)
+
+#### - Esquema de dados:
+[Diagrama ER CITRAdb](https://drive.google.com/file/d/14Bx9SLCFykOZnJ1EO1OT6M_-SMZ9n-ER/view?usp=sharing)
