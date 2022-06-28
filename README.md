@@ -7,6 +7,7 @@ CITRA
 - [Ewaldo Junior](https://github.com/ewaldojunior)
 - [Ítalo Rodrigues](https://github.com/Italorodri)
 - [Isânio Vitor](https://github.com/isaniovitor)
+- [Maria Eduarda](https://github.com/Maria-Eduarda-080902)
 
 #### - Documento de visão do projeto anexado em PDF
 
