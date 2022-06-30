@@ -23,6 +23,6 @@ CITRA
 [BackEnd](https://github.com/ewaldojunior/CITRA-backend/tree/main/CITRA_API)
 
 #### - Esquema de dados:
-[Diagrama ER CITRAdb](https://drive.google.com/file/d/14Bx9SLCFykOZnJ1EO1OT6M_-SMZ9n-ER/view?usp=sharing)
+[Diagrama ER CITRAdb](https://drive.google.com/file/d/1wUEzcdGHFNeHbHmqTJvyrWFAcokS2RoD/view?usp=sharing)
 
-[Banco de dados](https://drive.google.com/file/d/1x41Drot5hjH7cPHrj7g49T9kdIWQIbL8/view?usp=sharing)
+[Banco de dados](https://drive.google.com/file/d/1YVY7bdnG3ZrcCHLjp9CQQARE6WfhoAGp/view?usp=sharing)
